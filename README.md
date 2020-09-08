@@ -11,4 +11,4 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 [See full project](https://github.com/caro-mat/airbnb)
 
-![Analysis of prizes per neighbourhood and room type](https://github.com/caro-mat/caro-mat.github.io/blob/master/airbnb_neighbourhood.png")
+https://github.com/caro-mat/caro-mat.github.io/blob/master/airbnb_neighbourhood.png
