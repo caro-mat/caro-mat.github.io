@@ -14,3 +14,11 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="carole-mattmann"><a class="LI-simple-link" href='https://ch.linkedin.com/in/carole-mattmann?trk=profile-badge'>Carole Mattmann</a></div>
+
+## Project 2: Instagram scraper to get images for deep learning analysis
+
+* access official API
+* search by username or hashtag
+* download metadata and images
+
+[See full project](https://github.com/caro-mat/insta_scraper)
