@@ -1,3 +1,6 @@
+## Find me on Linkedin
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="carole-mattmann"><a class="LI-simple-link" href='https://ch.linkedin.com/in/carole-mattmann?trk=profile-badge'>Carole Mattmann</a></div>
+
 ## Project 1: Data Science Universities (ETL process)
 
 This project provides an overview over all data science bachelor and masters programs. Data is collected about the programs and merged with the schools world ranking. 
