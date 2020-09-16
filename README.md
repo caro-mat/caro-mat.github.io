@@ -5,7 +5,7 @@
 Hi, my name is Carole. I'm passionate about creating value through data and automation. 
 Some of my work can be seen below. 
 
-[Connect with me on Linkedin](www.linkedin.com/in/carole-mattmann)
+[Connect with me on Linkedin](https://www.linkedin.com/in/carole-mattmann)
 
 
 ## Project 1: Data Science Universities (ETL process)
