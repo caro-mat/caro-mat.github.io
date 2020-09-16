@@ -1,6 +1,6 @@
 ## Hello
 
-<img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/cv2.jpg?raw=true" width="250" style="float:left">
+<img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/CV2.jpg?raw=true" width="250" style="float:left">
 
 Hi, my name is Carole. I'm passionate about creating value through data and automation. 
 Some of my work can be seen below. 
