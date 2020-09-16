@@ -49,7 +49,9 @@ Analysis of health insurance dataset with:
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
-## Project 3: Analysis of brand selfies on instagram and how facial features influence engagement rate (MASTER THESIS, ONGOING UNTIL MAY 2021)
+## Project 3: Analysis of brand selfies on instagram and how facial features influence engagement rate 
+
+*MASTER THESIS, ONGOING UNTIL MAY 2021*
 
 1. Build instagram scraper
 * access official API
@@ -59,7 +61,7 @@ Analysis of health insurance dataset with:
 [See instagram scraper](https://github.com/caro-mat/insta_scraper)
 
 2. Use tensorflow for face detection and analysis
-IN PROGRESS
+*IN PROGRESS*
 
 
 ## Project 4: MySQL Database for Formula 1 races
