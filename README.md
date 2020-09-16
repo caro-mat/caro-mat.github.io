@@ -63,18 +63,20 @@ Analysis of health insurance dataset with:
 
 ---
 
-## Project 3: Analysis of brand selfies on instagram and how facial features influence engagement rate 
+## Project 3: Computer Vision Analysis of brand selfies on instagram 
+
+How do facial features in brand selfies influence engagement rate?
 
 *MASTER THESIS, ONGOING UNTIL MAY 2021*
 
-1. Build instagram scraper
+Step 1: Build instagram scraper
 * access official API
 * search by username or hashtag
 * download metadata and images
 
 [See instagram scraper](https://github.com/caro-mat/insta_scraper)
 
-2. Use tensorflow for face detection and analysis
+Step 2: Use tensorflow for face detection and analysis
 *IN PROGRESS*
 
 ---
