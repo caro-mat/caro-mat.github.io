@@ -2,11 +2,11 @@
 
 <img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/cv2.jpg?raw=true" width="250" style="float:left">
 
-
 Hi, my name is Carole. I'm passionate about creating value through data and automation. 
 Some of my work can be seen below. 
 
-Connect with me on linkedin: <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="carole-mattmann"><a class="LI-simple-link" href='https://ch.linkedin.com/in/carole-mattmann?trk=profile-badge'>Carole Mattmann</a></div>
+[Connect with me on Linkedin](www.linkedin.com/in/carole-mattmann)
+
 
 ## Project 1: Data Science Universities (ETL process)
 
