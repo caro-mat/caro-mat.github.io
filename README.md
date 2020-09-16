@@ -77,6 +77,7 @@ Step 1: Build instagram scraper
 [See instagram scraper](https://github.com/caro-mat/insta_scraper)
 
 Step 2: Use tensorflow for face detection and analysis
+
 *IN PROGRESS*
 
 ---
