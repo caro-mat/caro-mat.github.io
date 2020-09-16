@@ -9,7 +9,7 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 [See full project](https://github.com/caro-mat/airbnb)
 
-![Analysis of airbnb prizes by neigbourhood and room type](https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png)
+![Analysis of airbnb prizes by neigbourhood and room type](https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png | width=100)
 
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
