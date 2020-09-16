@@ -1,4 +1,4 @@
-<img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/CV2.jpg?raw=true" width="200" style="float:left">
+<img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/CV2.jpg?raw=true" width="200" style="float:left border:10px">
 
 Hi, my name is Carole. I'm passionate about creating value through data and automation. 
 Some of my work can be seen below. 
