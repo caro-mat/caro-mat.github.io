@@ -9,12 +9,15 @@ This project provides an overview over all data science bachelor and masters pro
 - visualize in tableau
 
 Scraping with Python:
+
 <img src="https://github.com/caro-mat/data_science_universities/blob/master/image_scraping.png?raw=true" width="400">
 
 Transformation Tableau Prep:
+
 <img src="https://github.com/caro-mat/data_science_universities/blob/master/image_tableau_prep.png?raw=true" width="400">
 
 Visualization Tableau: 
+
 <img src="https://github.com/caro-mat/data_science_universities/blob/master/image_tableau_visualisation.png.jpg?raw=true" width="400">
 
 
