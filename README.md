@@ -63,7 +63,7 @@ Analysis of health insurance dataset with:
 
 ---
 
-## Project 3: Computer Vision Analysis of brand selfies on instagram 
+## Project 3: Computer vision analysis of brand selfies on instagram 
 
 How do facial features in brand selfies influence engagement rate?
 
