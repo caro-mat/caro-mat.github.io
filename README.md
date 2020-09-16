@@ -1,4 +1,7 @@
-## Find me on Linkedin
+## Hello
+
+Hi, my name is Carole. I'm passionate about creating value through data and automation. 
+Some of my work can be seen below. Connect with me on linkedin: 
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="carole-mattmann"><a class="LI-simple-link" href='https://ch.linkedin.com/in/carole-mattmann?trk=profile-badge'>Carole Mattmann</a></div>
