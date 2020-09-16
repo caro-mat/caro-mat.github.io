@@ -11,7 +11,7 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 ![Analysis of airbnb prizes by neigbourhood and room type](https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png =250x250)
 
-
+<img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="48">
 
 ## Project 2: Instagram scraper to get images for deep learning analysis
 
