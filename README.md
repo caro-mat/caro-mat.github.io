@@ -8,6 +8,10 @@ This project provides an overview over all data science bachelor and masters pro
 - write to sql database
 - visualize in tableau
 
+[See full project](https://github.com/caro-mat/data_science_universities)
+
+### Impressions:
+
 Scraping with Python:
 
 <img src="https://github.com/caro-mat/data_science_universities/blob/master/image_scraping.png?raw=true" width="400">
@@ -20,14 +24,33 @@ Visualization Tableau:
 
 <img src="https://github.com/caro-mat/data_science_universities/blob/master/image_tableau_visualisation.png.jpg?raw=true" width="400">
 
+*Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
-[See full project](https://github.com/caro-mat/data_science_universities)
+## Project 2: Analysis of health insurance Dataset with different machine learning techniques in R
 
-Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me. 
+Analysis of health insurance dataset with:
+* Linear models
+* Polynomial models
+* GAM and GLM
+* Decision Trees
+* Support Vector Machines
+* Neural Networks 
+
+[See html with analysis](https://github.com/caro-mat/machinelearning/blob/master/03_rmarkdown/machinelearning_main_V3.html)
+
+[See pdf with analysis](https://github.com/caro-mat/machinelearning/blob/master/03_rmarkdown/machinelearning_main_V3.pdf)
+
+### Impressions:
+
+<img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/ML_glm.png?raw=true" width="400">
+
+<img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/ML_graphics.png?raw=true" width="400">
 
 
+*Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
-## Project 2: Analysis of Airbnb Data in R Markdown
+
+## Project 3: Analysis of Airbnb Data in R Markdown
 
 Analyzing possible effects of different variables on airbnb appartment price
 * development and evaluation of linear regression models
@@ -40,7 +63,7 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 <img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="600">
 
-## Project 3: Instagram scraper with Python to get images for deep learning analysis
+## Project 4: Instagram scraper with Python to get images for deep learning analysis
 
 * access official API
 * search by username or hashtag
