@@ -130,7 +130,7 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 [See full project](https://github.com/caro-mat/airbnb)
 
-<img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="600">
+<img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="400">
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleague and me.*
 
