@@ -49,8 +49,53 @@ Analysis of health insurance dataset with:
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
+## Project 3: Analysis of brand selfies on instagram and how facial features influence engagement rate (MASTER THESIS, ONGOING UNTIL MAY 2021)
 
-## Project 3: Analysis of Airbnb Data in R Markdown
+1. Build instagram scraper
+* access official API
+* search by username or hashtag
+* download metadata and images
+
+[See instagram scraper](https://github.com/caro-mat/insta_scraper)
+
+2. Use tensorflow for face detection and analysis
+IN PROGRESS
+
+
+## Project 4: MySQL Database for Formula 1 races
+
+* Creating data model
+* Create tables in MySQL
+* Perform queries in MySQL
+* Vizualize in Tableau
+
+[See full project](https://github.com/caro-mat/formula1)
+
+### Impressions
+
+Data model
+<img src="https://github.com/caro-mat/formula1/blob/master/formula1_datamodel.png?raw=true" width="600">
+
+Query (Question: Who had the most victories in Formula 1?)
+<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query.png?raw=true" width="600">
+<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query2.png?raw=true" width="600">
+
+Vizualization
+<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query_visual.png?raw=true" width="600">
+
+*Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
+
+## Project 5: ETL with Pentaho Data Integration and SQL
+
+Analyze Job Posts on an online portal
+
+* Automate import xml files with job posts and import to SQL database
+* Extract and transform data in pentaho
+* analyze job posts with SQL queries and extract into csv file
+
+[See full project](https://github.com/caro-mat/job_post_analyis)
+
+## Project 6: Analysis of Airbnb Data in R Markdown
 
 Analyzing possible effects of different variables on airbnb appartment price
 * development and evaluation of linear regression models
@@ -63,10 +108,6 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 <img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="600">
 
-## Project 4: Instagram scraper with Python to get images for deep learning analysis
 
-* access official API
-* search by username or hashtag
-* download metadata and images
 
-[See full project](https://github.com/caro-mat/insta_scraper)
+
