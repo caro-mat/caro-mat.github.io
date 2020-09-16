@@ -1,6 +1,6 @@
 ## Project 1: Data Science Universities (ETL process)
 
-This project provides an overview over all data science bachelor and masters programs. Data is collected about the programs and merged them with the schools world ranking. 
+This project provides an overview over all data science bachelor and masters programs. Data is collected about the programs and merged with the schools world ranking. 
 
 - scrape data about data science programs with python (response, beautifulsoup, pandas)
 - scrape data about school rankings with python
