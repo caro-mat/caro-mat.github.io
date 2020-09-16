@@ -26,6 +26,8 @@ Visualization Tableau:
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
+---
+
 ## Project 2: Analysis of health insurance Dataset with different machine learning techniques in R
 
 Analysis of health insurance dataset with:
@@ -49,6 +51,8 @@ Analysis of health insurance dataset with:
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
+---
+
 ## Project 3: Analysis of brand selfies on instagram and how facial features influence engagement rate 
 
 *MASTER THESIS, ONGOING UNTIL MAY 2021*
@@ -63,6 +67,7 @@ Analysis of health insurance dataset with:
 2. Use tensorflow for face detection and analysis
 *IN PROGRESS*
 
+---
 
 ## Project 4: MySQL Database for Formula 1 races
 
@@ -87,6 +92,8 @@ Vizualization
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
+---
+
 ## Project 5: ETL with Pentaho Data Integration and SQL
 
 Analyze Job Posts on an online portal
@@ -96,6 +103,8 @@ Analyze Job Posts on an online portal
 * analyze job posts with SQL queries and extract into csv file
 
 [See full project](https://github.com/caro-mat/job_post_analyis)
+
+---
 
 ## Project 6: Analysis of Airbnb Data in R Markdown
 
@@ -109,6 +118,8 @@ Analyzing possible effects of different variables on airbnb appartment price
 [See full project](https://github.com/caro-mat/airbnb)
 
 <img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="600">
+
+*Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleague and me.*
 
 
 
