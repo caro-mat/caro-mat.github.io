@@ -9,7 +9,7 @@ Analyzing possible effects of different variables on airbnb appartment price
 
 [See full project](https://github.com/caro-mat/airbnb)
 
-<img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="200">
+<img src="https://raw.githubusercontent.com/caro-mat/caro-mat.github.io/master/airbnb_neighbourhood.png" width="600">
 
 ## Project 2: Instagram scraper to get images for deep learning analysis
 
