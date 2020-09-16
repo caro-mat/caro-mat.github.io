@@ -81,14 +81,17 @@ Analysis of health insurance dataset with:
 ### Impressions
 
 Data model
-<img src="https://github.com/caro-mat/formula1/blob/master/formula1_datamodel.png?raw=true" width="600">
+
+<img src="https://github.com/caro-mat/formula1/blob/master/formula1_datamodel.png?raw=true" width="400">
 
 Query (Question: Who had the most victories in Formula 1?)
-<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query.png?raw=true" width="600">
-<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query2.png?raw=true" width="600">
+
+<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query.png?raw=true" width="400">
+<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query2.png?raw=true" width="400">
 
 Vizualization
-<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query_visual.png?raw=true" width="600">
+
+<img src="https://github.com/caro-mat/formula1/blob/master/formula_1_query_visual.png?raw=true" width="400">
 
 *Disclaimer: This was a group work at Lucerne University of Applied Sciences. This is the work of my colleagues and me.*
 
