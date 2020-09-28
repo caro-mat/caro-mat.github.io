@@ -48,6 +48,8 @@ Analysis of health insurance dataset with:
 * Support Vector Machines
 * Neural Networks 
 
+Conclusion: Never smoke, kids! - Whatever method you apply, smoking always has a significant effect on health costs. 
+
 [See html with analysis](https://github.com/caro-mat/machinelearning/blob/master/03_rmarkdown/machinelearning_main_V3.html)
 
 [See pdf with analysis](https://github.com/caro-mat/machinelearning/blob/master/03_rmarkdown/machinelearning_main_V3.pdf)
