@@ -8,9 +8,9 @@ Some of my work can be seen below.
 ---
 
 
-## Project 1: Research (Master Thesis) - Computer vision analysis of brand selfies on instagram 
+## Project 1: Research (Master Thesis) - What about a face makes the user like a selfie?
 
-### What about a face makes the user like a selfie?
+### Computer vision analysis of brand selfies on instagram 
 
 *MASTER THESIS, ONGOING UNTIL MAY 2021*
 
