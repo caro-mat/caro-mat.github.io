@@ -1,6 +1,6 @@
 <img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/CV2.jpg?raw=true" width="200">
 
-Hi, my name is Carole. I'm passionate about creating value through data and automation. 
+Hi, my name is Carole. I am curious about how the world works and create value with data and automation. 
 Some of my work can be seen below. 
 
 [Connect with me on Linkedin](https://www.linkedin.com/in/carole-mattmann)
@@ -8,7 +8,28 @@ Some of my work can be seen below.
 ---
 
 
-## Project 1: Data Science Universities (ETL process)
+## Project 1: Research (Master Thesis) - Computer vision analysis of brand selfies on instagram 
+
+### What about a face makes the user like a selfie?
+
+*MASTER THESIS, ONGOING UNTIL MAY 2021*
+
+Step 1: Build instagram scraper
+* access official API
+* search by username or hashtag
+* download metadata and images
+
+[See instagram scraper](https://github.com/caro-mat/insta_scraper)
+
+Step 2: Build convolutional neural network for face detection and analysis
+
+Step 3: Build machine learning model connecting the face's characteristics to the likes 
+
+
+
+---
+
+## Project 2: Data Science Universities (ETL process)
 
 This project provides an overview over all data science bachelor and masters programs. Data is collected about the programs and merged with the schools world ranking. 
 
@@ -38,7 +59,7 @@ Visualization Tableau:
 
 ---
 
-## Project 2: Analysis of health insurance Dataset with different machine learning techniques in R
+## Project 3: Analysis of health insurance Dataset with different machine learning techniques in R
 
 Analysis of health insurance dataset with:
 * Linear models
@@ -65,24 +86,6 @@ Conclusion: Never smoke, kids! - Whatever method you apply, smoking always has a
 
 ---
 
-## Project 3: Computer vision analysis of brand selfies on instagram 
-
-How do facial features in brand selfies influence engagement rate?
-
-*MASTER THESIS, ONGOING UNTIL MAY 2021*
-
-Step 1: Build instagram scraper
-* access official API
-* search by username or hashtag
-* download metadata and images
-
-[See instagram scraper](https://github.com/caro-mat/insta_scraper)
-
-Step 2: Use tensorflow for face detection and analysis
-
-*IN PROGRESS*
-
----
 
 ## Project 4: MySQL Database for Formula 1 races
 
