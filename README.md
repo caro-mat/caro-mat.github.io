@@ -1,7 +1,7 @@
 <img src="https://github.com/caro-mat/caro-mat.github.io/blob/master/CV2.jpg?raw=true" width="200">
 
 Hi, my name is Carole. I am curious about how the world works and create value with data and automation. 
-Some of my work can be seen below. 
+I also hold a Masters in Applied Information and Data Science. Some of my work can be seen below.  
 
 [Connect with me on Linkedin](https://www.linkedin.com/in/carole-mattmann)
 
@@ -12,7 +12,7 @@ Some of my work can be seen below.
 
 ### Computer vision analysis of brand selfies on instagram 
 
-*MASTER THESIS, ONGOING UNTIL MAY 2021*
+[Read Master Thesis as pdf](https://github.com/caro-mat/insta_scraper)
 
 Step 1: Build instagram scraper
 * access official API
