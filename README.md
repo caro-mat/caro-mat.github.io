@@ -12,7 +12,7 @@ I also hold a Masters in Applied Information and Data Science. Some of my work c
 
 ### Computer vision analysis of brand selfies on instagram 
 
-[Read Master Thesis as pdf](https://github.com/caro-mat/insta_scraper)
+[Read Master Thesis as pdf](https://github.com/caro-mat/caro-mat.github.io/Mattmann%2C%20Carole_Masters%20Thesis.pdf)
 
 Step 1: Build instagram scraper
 * access official API
